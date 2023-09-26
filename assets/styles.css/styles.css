@@ -1,0 +1,14 @@
+.container-fluid span {
+    font-size: xx-large;
+}
+.container-fluid {
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+.btn {
+    background-color: rgb(83, 83, 255);
+    color: white;
+    width: 240px;
+}
+

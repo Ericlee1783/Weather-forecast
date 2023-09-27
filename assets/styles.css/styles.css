@@ -4,7 +4,9 @@ header {
     color: white;
 }
 
-
+.col {
+    display: inline;
+}
 
 
 .search-location button {
@@ -14,4 +16,22 @@ header {
     display: block;
     border-radius: 7px;;
     border-color: #4272d7;
+}
+
+.forecast-day {
+    background-color: rgb(70, 70, 106);
+    color: white;
+    border-radius: 7px;
+    padding: 3px;
+}
+
+.second-column {
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.search-location {
+    border-bottom-style:ridge
 }
